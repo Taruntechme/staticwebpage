@@ -1,0 +1,158 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: serif      
+}
+#body
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.body
+{
+   background-image: linear-gradient(to right, #a517ba,#000000);
+    padding: 0 !importent;
+}
+.navbar-brand img
+{
+    height: 100px;
+    padding-left: 20px
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    color: #fff !important;
+    font-weight: 600;  
+    float: right;
+    text-align: left;
+}
+.fa-bars
+{
+    color: #fff;
+    font-size: 30px !important;
+}
+
+/*-----------------social-media-section------------*/
+
+#social-media
+{
+    background: #f8f9fa;
+    padding: 100px 0;
+}
+.social-media p
+{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.social-icons img
+{
+    width: 60px;
+    transition: 0.5s;
+}
+.social-icons a:hover img
+{
+    transform: translateY(-10px);
+}
+
+/*----------------------footer section--------------------------*/
+#footer
+{
+    background-image: linear-gradient(to right, #a517ba,#000000);
+}
+.footer-img
+{
+    width: 100%;
+}
+.footer-box
+{
+    color: #fff !important;
+    padding: 20px;
+}
+.footer-box img
+{
+    width: 120px;
+    margin-bottom: 20px
+}
+.footer-box .form-control
+{
+    box-shadow: none !important;
+    border: none;
+    border border-radius: 0;
+    margin-top: 25px;
+    max-width: 250px;
+}
+.footer-box .btn-primary
+{
+    box-shadow: none !important;
+    border: none;
+    border border-radius: 0;
+    margin-top: 30px;
+    background-image: linear-gradient(to right, #a517ba,#000000);
+}
+hr
+{
+    background-color: #fff;
+}
+.copyright
+{
+    color: #fff !important;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+/*----------------------footer section--------------------------*/
+#footer
+{
+    background-image: linear-gradient(to right, #a517ba,#000000);
+}
+.footer-img
+{
+    width: 100%;
+}
+.footer-box
+{
+    color: #fff !important;
+    padding: 20px;
+}
+.footer-box img
+{
+    width: 120px;
+    margin-bottom: 20px
+}
+.footer-box .form-control
+{
+    box-shadow: none !important;
+    border: none;
+    border border-radius: 0;
+    margin-top: 25px;
+    max-width: 250px;
+}
+.footer-box .btn-primary
+{
+    box-shadow: none !important;
+    border: none;
+    border border-radius: 0;
+    margin-top: 30px;
+     background-image: linear-gradient(to right, #a517ba,#000000);
+}
+hr
+{
+    background-color: #fff;
+}
+.copyright
+{
+    color: #fff !important;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
